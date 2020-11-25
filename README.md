@@ -8,6 +8,8 @@ https://github.com/andikleen/linux-misc/tree/lto-5.8-1
 
 https://codeload.github.com/andikleen/linux-misc/zip/lto-5.8-1
 
+https://gitee.com/crhf/linux-misc.git
+
 
 https://kernel.googlesource.com/pub/scm/linux/kernel/git/mmarek/kbuild/+/lto/Documentation/lto-build
 
