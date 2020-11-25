@@ -1,6 +1,8 @@
 [base]
 name=base
-baseurl=https://developer.huawei.com/ict/site-euleros/euleros/repo/yum/2.5/os/x86_64/
+baseurl=https://repo.openeuler.org/openEuler-20.03-LTS/OS/x86_64/
 enabled=1
-gpgcheck=1
-gpgkey=https://developer.huawei.com/ict/site-euleros/euleros/repo/yum/2.5/os/RPM-GPG-KEY-EulerOS
+gpgcheck=0
+
+
+
