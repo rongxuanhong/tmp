@@ -17,10 +17,15 @@ https://kernel.googlesource.com/pub/scm/linux/kernel/git/mmarek/kbuild/+/lto/Doc
 
 $(getconf _NPROCESSORS_ONLN)获取最大核数
 
+ubuntu
 sudo apt install libncurses5-dev openssl libssl-dev build-essential pkg-config libc6-dev bison flex libelf-dev zlibc minizip libidn11-dev libidn11 qttools5-dev liblz4-tool
 
 #如果是deepin用户看到这篇文章，还要安装如下的依赖
 
 sudo apt install plymouth*
+
+openEuler
+yum install –y rpm-build bc flex ncurses-devel bison openssl-devel make gcc gdb
+
 
 
