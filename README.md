@@ -25,7 +25,7 @@ sudo apt install libncurses5-dev openssl libssl-dev build-essential pkg-config l
 sudo apt install plymouth*
 
 openEuler
-yum install –y rpm-build bc flex ncurses-devel bison openssl-devel make gcc gdb
+yum install -y rpm-build bc flex ncurses-devel bison openssl-devel make gcc gdb
 
 
 
