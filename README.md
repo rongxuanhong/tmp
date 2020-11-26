@@ -1,5 +1,7 @@
 # tmp
 
+ssh -CqTf -NR  61637:localhost:22 root@172.168.133.8
+
 x86
 
 https://github.com/andikleen/linux-misc.git
