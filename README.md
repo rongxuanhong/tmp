@@ -10,6 +10,8 @@ https://codeload.github.com/andikleen/linux-misc/zip/lto-5.8-1
 
 https://gitee.com/crhf/linux-misc.git
 
+$(warning "majin_msg: LTO_CFLAGS=$(LTO_CFLAGS)")
+$(warning "majin_msg: KBUILD_CFLAGS=$(KBUILD_CFLAGS)")
 
 https://kernel.googlesource.com/pub/scm/linux/kernel/git/mmarek/kbuild/+/lto/Documentation/lto-build
 
@@ -26,6 +28,9 @@ sudo apt install plymouth*
 
 openEuler
 yum install -y rpm-build bc flex ncurses-devel bison openssl-devel make gcc gdb
+
+
+
 
 
 
