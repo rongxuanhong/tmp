@@ -29,6 +29,11 @@ sudo apt install plymouth*
 openEuler
 yum install -y rpm-build bc flex ncurses-devel bison openssl-devel make gcc gdb
 
+make modules -j32
+make -j32
+make modules_install -j32
+make install -j32
+
 
 
 
