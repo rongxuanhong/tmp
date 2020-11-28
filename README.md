@@ -36,6 +36,7 @@ make -j32
 make modules_install -j32
 make install -j32
 
+gcc9.3.0安装包 https://mirrors.ustc.edu.cn/gnu/gcc/gcc-9.3.0/gcc-9.3.0.tar.gz
 
 
 
