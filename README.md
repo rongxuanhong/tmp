@@ -17,6 +17,8 @@ $(warning "majin_msg: KBUILD_CFLAGS=$(KBUILD_CFLAGS)")
 
 https://kernel.googlesource.com/pub/scm/linux/kernel/git/mmarek/kbuild/+/lto/Documentation/lto-build
 
+
+
 ./scripts/config --disable function_tracer --disable function_graph_tracer --disable stack_tracer --enable lto_menu --disable lto_disable --disable gcov --disable kallsyms_all --disable modversions
 
 $(getconf _NPROCESSORS_ONLN)获取最大核数
