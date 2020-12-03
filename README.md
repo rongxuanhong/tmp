@@ -44,5 +44,7 @@ linux kernel 4.20.2 https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-
 
 openEuleros地址： https://repo.openeuler.org/openEuler-20.03-LTS/source/Packages/kernel-4.19.90-2003.4.0.0036.oe1.src.rpm
 
+内核整理： grub2-mkconfig -o /etc/grub2-efi.cfg
+
 
 
