@@ -47,5 +47,8 @@ openEuleros地址： https://repo.openeuler.org/openEuler-20.03-LTS/source/Packa
 
 内核整理： grub2-mkconfig -o /etc/grub2-efi.cfg
 
+yum install haveged -y
+systemctl start haveged
+systemctl enable haveged
 
 
