@@ -39,6 +39,7 @@ make modules_install -j32
 make install -j32
 
 gcc9.3.0安装包 https://mirrors.ustc.edu.cn/gnu/gcc/gcc-9.3.0/gcc-9.3.0.tar.gz
+gcc7.3.0安装包 https://mirrors.ustc.edu.cn/gnu/gcc/gcc-7.3.0/gcc-7.3.0.tar.gz
 
 linux kernel 4.20.2 https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.20.2.tar.gz
 
