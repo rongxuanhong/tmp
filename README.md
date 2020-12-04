@@ -55,3 +55,10 @@ systemctl enable haveged
 
 ./configure --prefix=/home/xzh/wd/hcc-use-final --enable-checking=no --enable-languages=c,c++,fortran --disable-werror --disable-bootstrap
 
+wget https://gcc.gnu.org/pub/gcc/infrastructure/gmp-6.1.0.tar.bz2
+
+wget https://gcc.gnu.org/pub/gcc/infrastructure/isl-0.16.1.tar.bz2
+
+wget https://gcc.gnu.org/pub/gcc/infrastructure/mpc-1.0.3.tar.gz
+
+wget https://gcc.gnu.org/pub/gcc/infrastructure/mpfr-3.1.4.tar.bz2
