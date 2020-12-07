@@ -62,3 +62,5 @@ wget https://gcc.gnu.org/pub/gcc/infrastructure/isl-0.16.1.tar.bz2
 wget https://gcc.gnu.org/pub/gcc/infrastructure/mpc-1.0.3.tar.gz
 
 wget https://gcc.gnu.org/pub/gcc/infrastructure/mpfr-3.1.4.tar.bz2
+
+https://repo.openeuler.org/openEuler-20.03-LTS/ISO/x86_64/openEuler-20.03-LTS-everything-x86_64-dvd.iso
