@@ -70,8 +70,10 @@ https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.81.tar.xz
 
 majin_help(){
 nowdir=`pwd`
+if [ "new" = $1 ]; then
 cd /root/tmp;
-git pull
+git pull;
+if
 cat /root/tmp/README.md;
 cd $nowdir
 }
