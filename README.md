@@ -73,7 +73,7 @@ nowdir=`pwd`
 if [ "new" = $1 ]; then
 cd /root/tmp;
 git pull;
-if
+fi
 cat /root/tmp/README.md;
 cd $nowdir
 }
