@@ -69,12 +69,12 @@ https://repo.openeuler.org/openEuler-20.03-LTS/ISO/x86_64/openEuler-20.03-LTS-x8
 https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.81.tar.xz
 
 majin_help(){
-nowdir=`pwd`
-tmp_dir="/home/majin/tmp"
+        nowdir=`pwd`
+        tmp_dir="/home/majin/tmp"
         if [ "new" = $1 ]; then
                 cd $tmp_dir;
                 git pull;
         fi
-        cat README.md;
+        cat $tmp_dir/README.md;
         cd $nowdir
 }
