@@ -62,3 +62,5 @@ majin_help(){
         cat $tmp_dir/README.md;
         cd $nowdir
 }
+
+make mrproper
