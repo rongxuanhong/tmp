@@ -39,3 +39,5 @@ make -j$(getconf _NPROCESSORS_ONLN)
 
 make install -j$(getconf _NPROCESSORS_ONLN)
 
+echo "PATH=$now_dir/build/bin:$PATH" >> ~/.bashrc
+
