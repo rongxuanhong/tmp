@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-apt install gcc
+apt-get install gcc
 now_dir=`pwd`;
 
 
