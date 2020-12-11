@@ -55,8 +55,9 @@ wget https://gcc.gnu.org/pub/gcc/infrastructure/mpfr-3.1.4.tar.bz2
 majin_help(){
         nowdir=`pwd`
         tmp_dir="/home/majin/tmp"
-        if [ "new" = $1 ]; then
-                cd $tmp_dir;
+        if [ "new" = $1 ]; 
+        then
+                cd $tmp_dir; 
                 git pull;
         fi
         cat $tmp_dir/README.md;
