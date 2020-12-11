@@ -30,7 +30,8 @@ gcc9.3.0安装包 https://mirrors.ustc.edu.cn/gnu/gcc/gcc-9.3.0/gcc-9.3.0.tar.gz
 gcc7.3.0安装包 https://mirrors.ustc.edu.cn/gnu/gcc/gcc-7.3.0/gcc-7.3.0.tar.gz
 
 linux kernel 4.20.2： https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.20.2.tar.gz
-linux kernel 5.4.81   https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.81.tar.xz
+linux kernel 5.4.81： https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.81.tar.xz
+linux kernel 5.8.1： https://mirrors.edge.kernel.org/pub/linux/kernel/v5.x/linux-5.8.1.tar.gz
 
 openEuleros地址： https://repo.openeuler.org/openEuler-20.03-LTS/source/Packages/kernel-4.19.90-2003.4.0.0036.oe1.src.rpm
 https://repo.openeuler.org/openEuler-20.03-LTS/ISO/x86_64/openEuler-20.03-LTS-everything-x86_64-dvd.iso
