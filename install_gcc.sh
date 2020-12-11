@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-apt-get install -y gcc make libncurses5-dev openssl libssl-dev build-essential pkg-config libc6-dev bison flex libelf-dev zlib
+apt-get install -y gcc make libncurses5-dev openssl libssl-dev build-essential pkg-config libc6-dev bison flex libelf-dev 
 now_dir=`pwd`;
 
 
