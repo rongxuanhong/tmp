@@ -1,6 +1,8 @@
 #!/bin/bash -e
 
+apt install gcc
 now_dir=`pwd`;
+
 
 gcc_name="gcc-7.3.0"
 
